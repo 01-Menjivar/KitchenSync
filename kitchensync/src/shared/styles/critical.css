@@ -1,0 +1,13 @@
+.min-h-screen { min-height: 100vh; }
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+.font-bold { font-weight: 700; }
+.text-slate-800 { color: #1e293b; }
+.mb-2 { margin-bottom: 0.5rem; }
+.p-4 { padding: 1rem; }
+.w-full { width: 100%; }
+.max-w-md { max-width: 28rem; }
+.text-center { text-align: center; }
+.mb-8 { margin-bottom: 2rem; }
